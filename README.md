@@ -1,5 +1,6 @@
 # EM_step_index_fiber
 
+Optical Fiber Simulation
 This repository contains a Python code for simulating the behavior of single-mode optical fibers with step-index refractive profiles. Optical fibers are cylindrical dielectric waveguides with a higher refractive index in the core, causing light to be trapped within the core due to total internal reflection.
 
 Optical fibers can generally be classified into two types:
